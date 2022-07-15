@@ -5,4 +5,4 @@ After cloning the repository, run this to launch the application:
 ```
 ./gradlew bootRun
 ```
-Navigate to http://localhost:8080/ to see the application running.
+Navigate to http://localhost:8082/ to see the application running.
